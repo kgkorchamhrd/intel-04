@@ -40,9 +40,9 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
 | 01 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 02 KimHyunBeen (abcde) | n/a | - | - | - | - | - | max5982 |
-| 03 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 04 AnJinHong (yesorn0) | n/a | - | - | - | - | - | max5982 |
+| 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 03 OhJunTaek (juntaek-oh) | n/a | - | - | - | - | - | max5982 |
+| 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 MoonByeongIL (david1597-embedded) | n/a | - | - | - | - | - | max5982 |
 | 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | - | max5982 |
@@ -52,7 +52,7 @@
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimGyeongMin (GyeoungMin) | n/a | - | - | - | - | - | mokiya |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 14 JoHaeChan (JHC1023) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
