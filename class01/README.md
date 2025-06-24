@@ -45,10 +45,10 @@
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 MoonByeongIL (david1597-embedded) | n/a | - | - | - | - | - | max5982 |
-| 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | - | max5982 |
 | 08 WooJinWoo (Jinunu99) | n/a | - | - | - | - | - | max5982 |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 10 LeeEunSeo (LES4975) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
