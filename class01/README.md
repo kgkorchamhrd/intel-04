@@ -50,7 +50,7 @@
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 12 KimMinJeong (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
@@ -64,7 +64,6 @@
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 24 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-
 ### Mini Projects
 
 * Team x:
