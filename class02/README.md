@@ -38,7 +38,7 @@
 | 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 04 AnJinHong (yesorn0) | n/a | - | - | - | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 06 MoonByeongIL(david1597-embedded) | n/a | - | - | - | - | litcoder |
 | 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
