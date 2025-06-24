@@ -34,9 +34,9 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 02 KimHyunBeen (abcde) | n/a | - | - | - | - | litcoder |
-| 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 04 AnJinHong (yesorn0) | n/a | - | - | - | - | - | max5982 |
+| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 03 OhJunTaek (juntaek-oh) | n/a | - | - | - | - | litcoder |
+| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 MoonByeongIL(david1597-embedded) | n/a | - | - | - | - | litcoder |
 | 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | litcoder |
