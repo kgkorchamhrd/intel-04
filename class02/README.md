@@ -41,7 +41,7 @@
 | 06 MoonByeongIL(david1597-embedded) | n/a | - | - | - | - | litcoder |
 | 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 09 LeeYunSeong (tsl2075) | n/a | - | - | - | - | litcoder |
 | 10 LeeEunSeo (LES4975) | n/a | - | - | - | - | litcoder |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
