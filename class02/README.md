@@ -42,8 +42,8 @@
 | 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 10 LeeEunSeo (LES4975) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 leejonghui  (paperlee0511) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimGyeongMin (GyeoungMin) | n/a | - | - | - | - | mokiya |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
