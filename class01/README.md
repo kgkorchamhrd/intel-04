@@ -52,7 +52,7 @@
 | 11 leejonghui (paperlee0511) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimGyeongMin (GyeoungMin) | n/a | - | - | - | - | - | mokiya |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 14 JoHaeChan (JHC1023) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |

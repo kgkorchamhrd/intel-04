@@ -46,7 +46,7 @@
 | 11 leejonghui  (paperlee0511) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimGyeongMin (GyeoungMin) | n/a | - | - | - | - | mokiya |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 14 JoHaeChan (JHC1023) | n/a | - | - | - | - | litcoder |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
