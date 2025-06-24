@@ -47,7 +47,7 @@
 | 06 MoonByeongIL (david1597-embedded) | n/a | - | - | - | - | - | max5982 |
 | 07 OhHyunsoo (hyunsoo-Oh) | n/a | - | - | - | - | - | max5982 |
 | 08 WooJinWoo (Jinunu99) | n/a | - | - | - | - | - | max5982 |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 09 LeeYunSeong (tsl2075) | n/a | - | - | - | - | - | max5982 |
 | 10 LeeEunSeo (LES4975) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
