@@ -49,7 +49,7 @@
 | 08 WooJinWoo (Jinunu99) | n/a | - | - | - | - | - | max5982 |
 | 09 LeeYunSeong (tsl2075) | n/a | - | - | - | - | - | max5982 |
 | 10 LeeEunSeo (LES4975) | n/a | - | - | - | - | - | max5982 |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 11 LeeJongHui (paperlee0511) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimGyeongMin (GyeoungMin) | n/a | - | - | - | - | - | mokiya |
 | 14 JoHaeChan (JHC1023) | n/a | - | - | - | - | - | max5982 |
