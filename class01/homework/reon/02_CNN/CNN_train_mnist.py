@@ -1,0 +1,45 @@
+import tensorflow as tf
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.cm as cm
+
+mnist = tf.keras.datasets.fashion_mnist
+(X_train, y_train), (X_test, y_test) = mnist.load_data()
+
+X_train, X_test = X_train / 255, X_test / 255
+
+class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 
+                    'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
+plt.figure(figsize=(10,10))
+
+for i in range(10):
+    plt.subplot(3, 4, i+1)
+    plt.xticks([])
+    plt.yticks([])
+    plt.grid(False)
+    plt.imshow(X_train[i], cmap=cm.gray)
+    plt.xlabel(class_names[y_train[i]])
+plt.show()
+
+model = tf.keras.Sequential()
+
+# CNN
+model.add(tf.keras.layers.Conv2D(64, (3, 3),activation='relu', input_shape=(28, 28, 1)))
+model.add(tf.keras.layers.MaxPooling2D((2, 2)))
+model.add(tf.keras.layers.Conv2D(64, (3, 3),activation='relu'))
+model.add(tf.keras.layers.MaxPooling2D((2, 2)))
+model.add(tf.keras.layers.Conv2D(64, (3, 3),activation='relu'))
+
+# ========================================================
+
+# ANN 
+model.add(tf.keras.layers.Flatten())
+model.add(tf.keras.layers.Dense(128, activation='relu'))
+model.add(tf.keras.layers.Dense(64, activation='relu'))
+model.add(tf.keras.layers.Dense(10, activation='softmax'))
+
+model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+
+model.fit(X_train, y_train, epochs=10, batch_size=10)
+model.summary()
+model.save('fashion_mnist.keras')
