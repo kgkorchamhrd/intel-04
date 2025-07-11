@@ -73,16 +73,16 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
+### Team: 조물조
+<사용자의 얼굴을 바라보며 대화하는 LLM 탑재 로봇>
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/goodsense/project_awesome.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+  | 이은서 | 팀장: 프로젝트 관리/시스템 통합/STM32 오디오 입출력 개발 |
+  | 김민정 | 팀원: 라즈베리파이를 이용한 LLM 대화 로직 개발 |
+  | 박명우 | 팀원: ESP32 Face Detection 및 통신 개발 |
+  | 안진홍 | 팀원: STM32 및 하드웨어 개발/외관 제작 |
+
+* Project Github : https://github.com/LES4975/my-little-chatbot
+* 발표자료 : https://docs.google.com/presentation/d/1ke70n9bbn2_XCP1pXgg8Qt4nmO6muRPUy0RcIypigkQ/edit?usp=sharing
 
