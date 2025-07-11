@@ -81,6 +81,19 @@ $ find ./ -iname *.bin|xargs ls -l
   |----|----|
   | 문병일 | 팀장: 임베디드 하드웨어 설계 및 개발, 차량제어 로직 개발 |
   | 김경민 | 팀원: 사전학습모델, OpenVINO를 활용한 엣지 디바이스에서의 모델 최적화  |
+=======
+### Team: 조물조
+<사용자의 얼굴을 바라보며 대화하는 LLM 탑재 로봇>
+* Members
+  | Name | Role |
+  |----|----|
+  | 이은서 | 팀장: 프로젝트 관리/시스템 통합/STM32 오디오 입출력 개발 |
+  | 김민정 | 팀원: 라즈베리파이를 이용한 LLM 대화 로직 개발 |
+  | 박명우 | 팀원: ESP32 Face Detection 및 통신 개발 |
+  | 안진홍 | 팀원: STM32 및 하드웨어 개발/외관 제작 |
+
+* Project Github : https://github.com/LES4975/my-little-chatbot
+* 발표자료 : https://docs.google.com/presentation/d/1ke70n9bbn2_XCP1pXgg8Qt4nmO6muRPUy0RcIypigkQ/edit?usp=sharing
 
 * Project Github : https://github.com/david1597-embedded/aumo_reco_project
 * 발표자료 : https://github.com/david1597-embedded/aumo_reco_project/blob/main/doc/aumo_reco_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C1.pptx
