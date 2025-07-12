@@ -86,3 +86,17 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/LES4975/my-little-chatbot
 * 발표자료 : https://docs.google.com/presentation/d/1ke70n9bbn2_XCP1pXgg8Qt4nmO6muRPUy0RcIypigkQ/edit?usp=sharing
 
+---
+### Team: 手語사이드스쿼드
+<실시간 수어 변역 시스템>
+* Members
+  | Name | Role |
+  |----|----|
+  | 김현빈 | Project lead, 프로젝트 총괄하고 팀원들 간 업무 조율 및 시스템 통합을 담당한다. |
+  | 김민성 | AI engineer, 수어 인식을 위한 컴퓨터 비전 및 머신러닝 모델 개발을 수행한다. |
+  | 오준택 | Software developer, 음성 처리(STT/TTS) 및 사용자 인터페이스 개발을 담당한다. |
+  | 조해찬 | Hardware engineer, 임베디드 시스템 설계 및 하드웨어 통합과 기구 제작을 수행한다. |
+
+* Project Github : https://github.com/HyunBeen96/sign-assistant/
+* 발표자료 : https://docs.google.com/presentation/d/1qhRmwTq4xgGTZ0SyEDLtMHQsXJTUl88bRhTrdHcEpgk/edit?slide=id.p#slide=id.p
+
