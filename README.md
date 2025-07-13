@@ -86,3 +86,16 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/LES4975/my-little-chatbot
 * 발표자료 : https://docs.google.com/presentation/d/1ke70n9bbn2_XCP1pXgg8Qt4nmO6muRPUy0RcIypigkQ/edit?usp=sharing
 
+
+### Team: Mart Keeper
+<사회적약자에게 효율적인 쇼핑과 직원에게 생산성을 향상시키는 AGV>
+* Members
+  | Name | Role |
+  |----|----|
+  | 우진우 | 팀장: GUI, AGV 이동경로 생성, Mesh 네트워크 구성 |
+  | 오현수 | 팀원: IMU, 적외선, 라인 인식, 모터제어, Raspi <--> STM32 통신 |
+  | 이윤성 | 팀원: QR 생성 및 인식, 모터제어, 라인 인식, Mesh 네트워크 구성 |
+  | 이종희 | 팀원: YOLO Detector, Edge(경량), DB 구축 |
+
+* Project Github : https://github.com/Jinunu99/MartAGVrobot_Martkeeper
+* 발표자료 : 추후 예정
