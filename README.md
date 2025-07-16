@@ -79,7 +79,6 @@ $ find ./ -iname *.bin|xargs ls -l
   | Name | Role |
   |----|----|
   | 이은서 | 팀장: 프로젝트 관리/시스템 통합/STM32 오디오 입출력 개발 |
-  | 김민정 | 팀원: 라즈베리파이를 이용한 LLM 대화 로직 개발 |
   | 박명우 | 팀원: ESP32 Face Detection 및 통신 개발 |
   | 안진홍 | 팀원: STM32 및 하드웨어 개발/외관 제작 |
 
@@ -113,3 +112,18 @@ $ find ./ -iname *.bin|xargs ls -l
 
 * Project Github : https://github.com/Jinunu99/MartAGVrobot_Martkeeper
 * 발표자료 : 추후 예정
+
+---
+### Team : 아우모-데토
+<다양한 상황에 활용가능한 스테레오 비젼 기반 팔로잉 카 솔루션>
+* Members
+  | Name | Role |
+  |----|----|
+  | 문병일 | 팀장 : 하드웨어 구성, 비젼 솔루션 |
+  | 김경민 | 팀원 : AI 모델 학습 및 모델 별 벤치마크 |
+  | 김민정 | 팀원 : 임베디드 관련 작업 및 문서 작업 |
+
+* Project Github : https://github.com/david1597-embedded/aumo_reco_project.git
+* 발표 자료 : [doc/aumo_reco_발표자료1.pptx](https://github.com/david1597-embedded/aumo_reco_project/blob/main/doc/aumo_reco_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C1.pptx)
+  
+
