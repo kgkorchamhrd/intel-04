@@ -124,6 +124,6 @@ $ find ./ -iname *.bin|xargs ls -l
   | 김민정 | 팀원 : 임베디드 관련 작업 및 문서 작업 |
 
 * Project Github : https://github.com/david1597-embedded/aumo_reco_project.git
-* 발표 자료 : [doc/aumo_reco_발표자료1.pptx](https://github.com/david1597-embedded/aumo_reco_project/blob/main/doc/aumo_reco_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C1.pptx)
+* 발표 자료 : [doc/aumo_reco_발표자료1.pptx](https://github.com/david1597-embedded/aumo_reco_project/blob/main/doc/%EC%95%84%EC%9A%B0%EB%AA%A8-%EB%8D%B0%ED%86%A0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
   
 
