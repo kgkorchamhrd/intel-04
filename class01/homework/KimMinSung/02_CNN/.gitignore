@@ -1,0 +1,98 @@
+# 운영체제 무시
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상환경
+.venv/
+env/
+venv/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# IDE & 에디터
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 환경 변수, 보안 설정
+.env
+.env.*
+*.secret
+secrets.yaml
+
+# 로그 / 캐시 / 임시파일
+*.log
+*.tmp
+*.bak
+*.swp
+.cache/
+*.pid
+*.out
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 빌드 / 배포 / 패키징
+dist/
+build/
+*.spec
+*.egg-info/
+*.egg
+.eggs/
+
+# 테스트 / 커버리지
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+pytest_cache/
+
+# Keras / TensorFlow / 딥러닝
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.tflite
+*.tfrecord
+*.ckpt
+*.ckpt.*
+saved_model/
+logs/
+tensorboard_logs/
+checkpoints/
+
+# PyTorch (선택사항)
+*.pt
+*.pth
+*.onnx
+
+# MyPy / Type Checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# 기타 사용 도구
+coverage/
+pip-wheel-metadata/
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
